@@ -19,5 +19,7 @@ public class Test {
         hashMap.put("k5", 0.5);
         System.out.println(hashMap.toString());
 
+        System.out.println("push test");
+
     }
 }
